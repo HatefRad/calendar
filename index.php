@@ -41,7 +41,6 @@ if (empty($_POST) == false && empty($errors) == true) {
 		?>
 	</div>
 	<?php
-
 } else if (empty($errors) == false) {
 	?>
 	<div class="error-container">
